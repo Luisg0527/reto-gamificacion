@@ -5,7 +5,7 @@ using System.Reflection.Metadata.Ecma335;
 using System.Security.Cryptography.X509Certificates;
 
 
-namespace AvanceWeb.Model
+namespace Reto.Model
 {
     public class DataBaseContext{
         public string ConnectionString { get; set; }

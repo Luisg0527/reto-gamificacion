@@ -1,5 +1,5 @@
 
-namespace AvanceWeb.Model
+namespace Reto.Model
 {
     public class MetricasDash{
         
