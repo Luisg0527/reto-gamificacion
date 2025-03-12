@@ -1,4 +1,4 @@
-using AvanceWeb.Model; //carpeta que contiene la clase DataBaseContext
+using Reto.Model; //carpeta que contiene la clase DataBaseContext
 using Microsoft.EntityFrameworkCore;
 
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q8ZFydFJ+Bo=",
+  "dgSpecHash": "YyzbbT2Yhfk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj",
+  "projectFilePath": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gpaol\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\gpaol\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

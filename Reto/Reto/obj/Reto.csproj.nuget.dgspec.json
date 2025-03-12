@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj": {}
+    "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj": {
+    "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj",
+        "projectUniqueName": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj",
         "projectName": "Reto",
-        "projectPath": "C:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj",
+        "projectPath": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj",
         "packagesPath": "C:\\Users\\gpaol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\",
+        "outputPath": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gpaol\\AppData\\Roaming\\NuGet\\NuGet.Config"
