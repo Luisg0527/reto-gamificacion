@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/luisgarza27/Documents/Semestre_4/Construccion de software/WEB/git/reto-gamificacion/Reto/Reto/Reto.csproj": {}
+    "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj": {}
   },
   "projects": {
-    "/Users/luisgarza27/Documents/Semestre_4/Construccion de software/WEB/git/reto-gamificacion/Reto/Reto/Reto.csproj": {
+    "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/luisgarza27/Documents/Semestre_4/Construccion de software/WEB/git/reto-gamificacion/Reto/Reto/Reto.csproj",
+        "projectUniqueName": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj",
         "projectName": "Reto",
-        "projectPath": "/Users/luisgarza27/Documents/Semestre_4/Construccion de software/WEB/git/reto-gamificacion/Reto/Reto/Reto.csproj",
-        "packagesPath": "/Users/luisgarza27/.nuget/packages/",
-        "outputPath": "/Users/luisgarza27/Documents/Semestre_4/Construccion de software/WEB/git/reto-gamificacion/Reto/Reto/obj/",
+        "projectPath": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\Reto.csproj",
+        "packagesPath": "C:\\Users\\gpaol\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/luisgarza27/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\gpaol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -43,6 +43,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

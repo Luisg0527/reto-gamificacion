@@ -1,7 +1,13 @@
+using Reto.Model; //carpeta que contiene la clase DataBaseContext
+using Microsoft.EntityFrameworkCore;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.Add(new ServiceDescriptor(typeof(DataBaseContext), new DataBaseContext()));
 
 var app = builder.Build();
 
