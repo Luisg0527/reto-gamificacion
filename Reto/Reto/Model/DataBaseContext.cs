@@ -10,7 +10,7 @@ namespace Reto.Model
     public class DataBaseContext{
         public string ConnectionString { get; set; }
         public DataBaseContext(){
-            ConnectionString = "Server=127.0.0.1;Port=3306;Database=dbTest3;Uid=root;password=Paolo2004;";
+            ConnectionString = "Server=127.0.0.1;Port=3306;Database=oxxodb;Uid=root;password=Paolo2004;";
         }
 
         private MySqlConnection GetConnection(){
@@ -18,10 +18,10 @@ namespace Reto.Model
         }
 
         public MetricasDash getMetricas(){
-            MetricasDash metricas = new MetricasDash(0,0,0,0,0);
+            MetricasDash metricas = new MetricasDash(0,0,0,0,0,0);
             using(MySqlConnection connection = GetConnection()){
                 connection.Open();
-                string query = "Select * from metricas where idmetricas = 1";
+                string query = "Select * from metricasusuario where id_usuario = 1";
 
                 using (MySqlCommand cmd = new MySqlCommand (query,connection)){
                     using (MySqlDataReader reader = cmd.ExecuteReader())
@@ -29,8 +29,9 @@ namespace Reto.Model
                         if (reader.Read())
                         {
                             metricas = new MetricasDash(
-
-                                reader.GetInt32("idMetricas"),
+                            
+                                reader.GetInt32("idmetricasUsuario"),
+                                reader.GetInt32("id_usuario"),
                                 reader.GetFloat("ingresos"),
                                 reader.GetFloat("ganancias"),
                                 reader.GetInt32("ordenes"),
@@ -44,26 +45,5 @@ namespace Reto.Model
             return metricas;
             
         }
-
-        public float getNeta(){
-            float gananciasNeta = 0;
-            
-            return gananciasNeta;
-        }
-
-        public int getOrdenes(){
-            int ordenes =0;
-
-            return ordenes;
-        }
-
-        public int getVisitas(){
-            int visitas = 0;
-
-            return visitas;
-        }
-
-
-
     }
 }

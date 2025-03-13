@@ -108,8 +108,6 @@ c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\
 c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\compressed\0ij3yzmoj4-9vr69e8ynj.gz
 c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\compressed\9b5l0un05l-87fc7y1x7t.gz
 c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\compressed\0cmkxt7tl2-mlv21k5csn.gz
-c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\compressed\rpcsec8z82-auo7larqo7.gz
-c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\compressed\8jx3y0n9p6-auo7larqo7.gz
 c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\staticwebassets.build.json
 c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\staticwebassets.development.json
 c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -125,3 +123,5 @@ c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\
 c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\Reto.pdb
 c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\Reto.genruntimeconfig.cache
 c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\ref\Reto.dll
+c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\compressed\rpcsec8z82-gw9j2cjz7k.gz
+c:\Users\gpaol\OneDrive\Documents\Desktop\reto-gamificacion\Reto\Reto\obj\Debug\net9.0\compressed\8jx3y0n9p6-gw9j2cjz7k.gz

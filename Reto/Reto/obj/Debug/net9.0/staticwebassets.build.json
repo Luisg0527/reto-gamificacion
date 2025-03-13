@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ds1g5PZFXPnkWFgvoqkPvMr4ZiWNAFbqzuaFrEua7Mc=",
+  "Hash": "h2BRDwTMG+pZev1Z+PBpATy5UJfRjeQLbcaDIJ7nofQ=",
   "Source": "Reto",
   "BasePath": "_content/Reto",
   "Mode": "Default",
@@ -269,12 +269,12 @@
       "OriginalItemSpec": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\8jx3y0n9p6-auo7larqo7.gz",
+      "Identity": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\8jx3y0n9p6-gw9j2cjz7k.gz",
       "SourceId": "Reto",
       "SourceType": "Computed",
       "ContentRoot": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Reto",
-      "RelativePath": "Reto#[.{fingerprint=auo7larqo7}]!.bundle.scp.css.gz",
+      "RelativePath": "Reto#[.{fingerprint=gw9j2cjz7k}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -283,8 +283,8 @@
       "RelatedAsset": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Reto.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pn75nt6q2k",
-      "Integrity": "+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s=",
+      "Fingerprint": "8d1hsrx1ek",
+      "Integrity": "LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Reto.bundle.scp.css"
@@ -1067,12 +1067,12 @@
       "OriginalItemSpec": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\rpcsec8z82-auo7larqo7.gz",
+      "Identity": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\rpcsec8z82-gw9j2cjz7k.gz",
       "SourceId": "Reto",
       "SourceType": "Computed",
       "ContentRoot": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Reto",
-      "RelativePath": "Reto#[.{fingerprint=auo7larqo7}]?.styles.css.gz",
+      "RelativePath": "Reto#[.{fingerprint=gw9j2cjz7k}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1081,8 +1081,8 @@
       "RelatedAsset": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Reto.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pn75nt6q2k",
-      "Integrity": "+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s=",
+      "Fingerprint": "8d1hsrx1ek",
+      "Integrity": "LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Reto.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "auo7larqo7",
-      "Integrity": "frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo=",
+      "Fingerprint": "gw9j2cjz7k",
+      "Integrity": "4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Reto.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "auo7larqo7",
-      "Integrity": "frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo=",
+      "Fingerprint": "gw9j2cjz7k",
+      "Integrity": "4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Reto.bundle.scp.css"
@@ -21595,13 +21595,13 @@
       ]
     },
     {
-      "Route": "Reto.auo7larqo7.bundle.scp.css",
-      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\8jx3y0n9p6-auo7larqo7.gz",
+      "Route": "Reto.bundle.scp.css",
+      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\8jx3y0n9p6-gw9j2cjz7k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001872659176"
+          "Quality": "0.001862197393"
         }
       ],
       "ResponseHeaders": [
@@ -21611,19 +21611,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "533"
+          "Value": "536"
         },
         {
           "Name": "ETag",
-          "Value": "\"+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s=\""
+          "Value": "\"LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -21639,26 +21639,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo=\""
+          "Value": "W/\"4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "auo7larqo7"
-        },
-        {
-          "Name": "label",
-          "Value": "Reto.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo="
+          "Value": "sha256-4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8="
         }
       ]
     },
     {
-      "Route": "Reto.auo7larqo7.bundle.scp.css",
+      "Route": "Reto.bundle.scp.css",
       "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Reto.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21668,7 +21660,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1122"
+          "Value": "1124"
         },
         {
           "Name": "Content-Type",
@@ -21676,11 +21668,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo=\""
+          "Value": "\"4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8="
+        }
+      ]
+    },
+    {
+      "Route": "Reto.bundle.scp.css.gz",
+      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\8jx3y0n9p6-gw9j2cjz7k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM="
+        }
+      ]
+    },
+    {
+      "Route": "Reto.gw9j2cjz7k.bundle.scp.css",
+      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\8jx3y0n9p6-gw9j2cjz7k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001862197393"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gw9j2cjz7k"
+        },
+        {
+          "Name": "label",
+          "Value": "Reto.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8="
+        }
+      ]
+    },
+    {
+      "Route": "Reto.gw9j2cjz7k.bundle.scp.css",
+      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Reto.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21690,7 +21827,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "auo7larqo7"
+          "Value": "gw9j2cjz7k"
         },
         {
           "Name": "label",
@@ -21698,13 +21835,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo="
+          "Value": "sha256-4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8="
         }
       ]
     },
     {
-      "Route": "Reto.auo7larqo7.bundle.scp.css.gz",
-      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\8jx3y0n9p6-auo7larqo7.gz",
+      "Route": "Reto.gw9j2cjz7k.bundle.scp.css.gz",
+      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\8jx3y0n9p6-gw9j2cjz7k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21713,7 +21850,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "533"
+          "Value": "536"
         },
         {
           "Name": "Content-Type",
@@ -21721,11 +21858,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s=\""
+          "Value": "\"LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21743,7 +21880,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "auo7larqo7"
+          "Value": "gw9j2cjz7k"
         },
         {
           "Name": "label",
@@ -21751,18 +21888,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s="
+          "Value": "sha256-LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM="
         }
       ]
     },
     {
-      "Route": "Reto.auo7larqo7.styles.css",
-      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\rpcsec8z82-auo7larqo7.gz",
+      "Route": "Reto.gw9j2cjz7k.styles.css",
+      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\rpcsec8z82-gw9j2cjz7k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001872659176"
+          "Quality": "0.001862197393"
         }
       ],
       "ResponseHeaders": [
@@ -21772,15 +21909,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "533"
+          "Value": "536"
         },
         {
           "Name": "ETag",
-          "Value": "\"+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s=\""
+          "Value": "\"LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21800,13 +21937,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo=\""
+          "Value": "W/\"4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "auo7larqo7"
+          "Value": "gw9j2cjz7k"
         },
         {
           "Name": "label",
@@ -21814,12 +21951,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo="
+          "Value": "sha256-4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8="
         }
       ]
     },
     {
-      "Route": "Reto.auo7larqo7.styles.css",
+      "Route": "Reto.gw9j2cjz7k.styles.css",
       "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Reto.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21829,7 +21966,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1122"
+          "Value": "1124"
         },
         {
           "Name": "Content-Type",
@@ -21837,11 +21974,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo=\""
+          "Value": "\"4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21851,7 +21988,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "auo7larqo7"
+          "Value": "gw9j2cjz7k"
         },
         {
           "Name": "label",
@@ -21859,13 +21996,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo="
+          "Value": "sha256-4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8="
         }
       ]
     },
     {
-      "Route": "Reto.auo7larqo7.styles.css.gz",
-      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\rpcsec8z82-auo7larqo7.gz",
+      "Route": "Reto.gw9j2cjz7k.styles.css.gz",
+      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\rpcsec8z82-gw9j2cjz7k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21874,7 +22011,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "533"
+          "Value": "536"
         },
         {
           "Name": "Content-Type",
@@ -21882,11 +22019,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s=\""
+          "Value": "\"LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21904,7 +22041,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "auo7larqo7"
+          "Value": "gw9j2cjz7k"
         },
         {
           "Name": "label",
@@ -21912,155 +22049,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s="
-        }
-      ]
-    },
-    {
-      "Route": "Reto.bundle.scp.css",
-      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\8jx3y0n9p6-auo7larqo7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001872659176"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "533"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo="
-        }
-      ]
-    },
-    {
-      "Route": "Reto.bundle.scp.css",
-      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Reto.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1122"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo="
-        }
-      ]
-    },
-    {
-      "Route": "Reto.bundle.scp.css.gz",
-      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\8jx3y0n9p6-auo7larqo7.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "533"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s="
+          "Value": "sha256-LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM="
         }
       ]
     },
     {
       "Route": "Reto.styles.css",
-      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\rpcsec8z82-auo7larqo7.gz",
+      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\rpcsec8z82-gw9j2cjz7k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001872659176"
+          "Quality": "0.001862197393"
         }
       ],
       "ResponseHeaders": [
@@ -22070,15 +22070,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "533"
+          "Value": "536"
         },
         {
           "Name": "ETag",
-          "Value": "\"+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s=\""
+          "Value": "\"LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22098,13 +22098,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo=\""
+          "Value": "W/\"4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo="
+          "Value": "sha256-4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8="
         }
       ]
     },
@@ -22119,7 +22119,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1122"
+          "Value": "1124"
         },
         {
           "Name": "Content-Type",
@@ -22127,11 +22127,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo=\""
+          "Value": "\"4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22141,13 +22141,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-frmYv+CS0xj3pFLhVx0mcs+LPWBHuOEJy2iSSvORCgo="
+          "Value": "sha256-4Jr4RHelLWhlHqgQynE8gpWj7/Jf3CjON9IiiajU8F8="
         }
       ]
     },
     {
       "Route": "Reto.styles.css.gz",
-      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\rpcsec8z82-auo7larqo7.gz",
+      "AssetFile": "c:\\Users\\gpaol\\OneDrive\\Documents\\Desktop\\reto-gamificacion\\Reto\\Reto\\obj\\Debug\\net9.0\\compressed\\rpcsec8z82-gw9j2cjz7k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22156,7 +22156,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "533"
+          "Value": "536"
         },
         {
           "Name": "Content-Type",
@@ -22164,11 +22164,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s=\""
+          "Value": "\"LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 23:38:12 GMT"
+          "Value": "Thu, 13 Mar 2025 02:02:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22186,7 +22186,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+157siQ19OePv04HDwLTlY6ViT9N+3SQPiQ0be03P+s="
+          "Value": "sha256-LFkGFjWLYNU5+5OXh9SdpLg6jQCOSQ3aRvgedlE2nZM="
         }
       ]
     }
