@@ -251,5 +251,5 @@ c:/Users/gpaol/OneDrive/Documents/Desktop/reto-gamificacion/Reto/Reto/obj/Debug/
 /Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/Reto.pdb
 /Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/Reto.genruntimeconfig.cache
 /Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/ref/Reto.dll
-/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-k4gtnedu47.gz
-/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-k4gtnedu47.gz
+/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-7sj0fo3r3k.gz
+/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-7sj0fo3r3k.gz

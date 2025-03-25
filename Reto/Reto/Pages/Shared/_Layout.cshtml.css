@@ -9,6 +9,12 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+.nav-item:hover {
+  background-color: #eeeeee;
+  transition: background-color 0.3s ease-in-out;
+
+}
+
 
 a {
   color: #0077cc;
@@ -74,11 +80,11 @@ button.accept-policy {
 }
 
 .sidebar {
-  width: 250px;
+  width: 280px;
   height: 100vh;
   background-color: #ffffff;
   border-right: 1px solid #dee2e6;
-  padding: 1rem;
+  padding-top: 1rem;
   position: fixed;
   top: 0;
   left: 0;

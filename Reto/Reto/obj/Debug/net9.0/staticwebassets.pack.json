@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/scopedcss/projectbundle/Reto.bundle.scp.css",
-      "PackagePath": "staticwebassets/Reto.k4gtnedu47.bundle.scp.css"
+      "PackagePath": "staticwebassets/Reto.7sj0fo3r3k.bundle.scp.css"
     },
     {
       "Id": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/wwwroot/css/site.css",
@@ -23,6 +23,10 @@
     {
       "Id": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/wwwroot/images/pie-chart.jpg",
       "PackagePath": "staticwebassets/images/pie-chart.jpg"
+    },
+    {
+      "Id": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/wwwroot/images/profilepic.png",
+      "PackagePath": "staticwebassets/images/profilepic.png"
     },
     {
       "Id": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/wwwroot/js/site.js",

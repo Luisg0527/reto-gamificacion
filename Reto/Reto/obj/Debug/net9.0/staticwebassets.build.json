@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9+TBlrlcwBuzYhz9njVo7b24dqhMvnAk+BJfOUTpmaY=",
+  "Hash": "OOvKq8TmxXmFcmAIOtcbn+/4GOiMZ9msDSiBe/fbYqQ=",
   "Source": "Reto",
   "BasePath": "_content/Reto",
   "Mode": "Default",
@@ -269,12 +269,12 @@
       "OriginalItemSpec": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-k4gtnedu47.gz",
+      "Identity": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-7sj0fo3r3k.gz",
       "SourceId": "Reto",
       "SourceType": "Computed",
       "ContentRoot": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Reto",
-      "RelativePath": "Reto#[.{fingerprint=k4gtnedu47}]!.bundle.scp.css.gz",
+      "RelativePath": "Reto#[.{fingerprint=7sj0fo3r3k}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -283,8 +283,8 @@
       "RelatedAsset": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/scopedcss/projectbundle/Reto.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5i5ra9lkrs",
-      "Integrity": "nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8=",
+      "Fingerprint": "bnvd395tn2",
+      "Integrity": "dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/scopedcss/projectbundle/Reto.bundle.scp.css"
@@ -1067,12 +1067,12 @@
       "OriginalItemSpec": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-k4gtnedu47.gz",
+      "Identity": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-7sj0fo3r3k.gz",
       "SourceId": "Reto",
       "SourceType": "Computed",
       "ContentRoot": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Reto",
-      "RelativePath": "Reto#[.{fingerprint=k4gtnedu47}]?.styles.css.gz",
+      "RelativePath": "Reto#[.{fingerprint=7sj0fo3r3k}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1081,8 +1081,8 @@
       "RelatedAsset": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/scopedcss/bundle/Reto.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5i5ra9lkrs",
-      "Integrity": "nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8=",
+      "Fingerprint": "bnvd395tn2",
+      "Integrity": "dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/scopedcss/bundle/Reto.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "k4gtnedu47",
-      "Integrity": "5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y=",
+      "Fingerprint": "7sj0fo3r3k",
+      "Integrity": "2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/scopedcss/bundle/Reto.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "k4gtnedu47",
-      "Integrity": "5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y=",
+      "Fingerprint": "7sj0fo3r3k",
+      "Integrity": "2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/scopedcss/projectbundle/Reto.bundle.scp.css"
@@ -1506,6 +1506,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/pie-chart.jpg"
+    },
+    {
+      "Identity": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/wwwroot/images/profilepic.png",
+      "SourceId": "Reto",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/wwwroot/",
+      "BasePath": "_content/Reto",
+      "RelativePath": "images/profilepic#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "trbkn5tb4g",
+      "Integrity": "Z0zpJmyeHQqNNgz7/YEWjOV0HxExnnUD1c25mhOPEXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/profilepic.png"
     },
     {
       "Identity": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/wwwroot/js/site.js",
@@ -3629,6 +3650,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-WUDrJkcn9qfhZPtbevfI46pD1IVihVX6uer/Mn5PEWo="
+        }
+      ]
+    },
+    {
+      "Route": "images/profilepic.png",
+      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/wwwroot/images/profilepic.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z0zpJmyeHQqNNgz7/YEWjOV0HxExnnUD1c25mhOPEXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 05:11:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z0zpJmyeHQqNNgz7/YEWjOV0HxExnnUD1c25mhOPEXk="
+        }
+      ]
+    },
+    {
+      "Route": "images/profilepic.trbkn5tb4g.png",
+      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/wwwroot/images/profilepic.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z0zpJmyeHQqNNgz7/YEWjOV0HxExnnUD1c25mhOPEXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 05:11:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "trbkn5tb4g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/profilepic.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z0zpJmyeHQqNNgz7/YEWjOV0HxExnnUD1c25mhOPEXk="
         }
       ]
     },
@@ -21595,13 +21698,13 @@
       ]
     },
     {
-      "Route": "Reto.bundle.scp.css",
-      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-k4gtnedu47.gz",
+      "Route": "Reto.7sj0fo3r3k.bundle.scp.css",
+      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-7sj0fo3r3k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001103752759"
+          "Quality": "0.001075268817"
         }
       ],
       "ResponseHeaders": [
@@ -21611,19 +21714,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "905"
+          "Value": "929"
         },
         {
           "Name": "ETag",
-          "Value": "\"nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8=\""
+          "Value": "\"dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -21639,18 +21742,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y=\""
+          "Value": "W/\"2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "7sj0fo3r3k"
+        },
+        {
+          "Name": "label",
+          "Value": "Reto.bundle.scp.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y="
+          "Value": "sha256-2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY="
         }
       ]
     },
     {
-      "Route": "Reto.bundle.scp.css",
+      "Route": "Reto.7sj0fo3r3k.bundle.scp.css",
       "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/scopedcss/projectbundle/Reto.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21660,7 +21771,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2409"
+          "Value": "2527"
         },
         {
           "Name": "Content-Type",
@@ -21668,121 +21779,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y=\""
+          "Value": "\"2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y="
-        }
-      ]
-    },
-    {
-      "Route": "Reto.bundle.scp.css.gz",
-      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-k4gtnedu47.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "905"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8="
-        }
-      ]
-    },
-    {
-      "Route": "Reto.k4gtnedu47.bundle.scp.css",
-      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-k4gtnedu47.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001103752759"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "905"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k4gtnedu47"
+          "Value": "7sj0fo3r3k"
         },
         {
           "Name": "label",
@@ -21790,13 +21801,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y="
+          "Value": "sha256-2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY="
         }
       ]
     },
     {
-      "Route": "Reto.k4gtnedu47.bundle.scp.css",
-      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/scopedcss/projectbundle/Reto.bundle.scp.css",
+      "Route": "Reto.7sj0fo3r3k.bundle.scp.css.gz",
+      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-7sj0fo3r3k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21805,7 +21816,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2409"
+          "Value": "929"
         },
         {
           "Name": "Content-Type",
@@ -21813,56 +21824,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y=\""
+          "Value": "\"dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k4gtnedu47"
-        },
-        {
-          "Name": "label",
-          "Value": "Reto.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y="
-        }
-      ]
-    },
-    {
-      "Route": "Reto.k4gtnedu47.bundle.scp.css.gz",
-      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-k4gtnedu47.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "905"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21880,7 +21846,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k4gtnedu47"
+          "Value": "7sj0fo3r3k"
         },
         {
           "Name": "label",
@@ -21888,18 +21854,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8="
+          "Value": "sha256-dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c="
         }
       ]
     },
     {
-      "Route": "Reto.k4gtnedu47.styles.css",
-      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-k4gtnedu47.gz",
+      "Route": "Reto.7sj0fo3r3k.styles.css",
+      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-7sj0fo3r3k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001103752759"
+          "Quality": "0.001075268817"
         }
       ],
       "ResponseHeaders": [
@@ -21909,15 +21875,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "905"
+          "Value": "929"
         },
         {
           "Name": "ETag",
-          "Value": "\"nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8=\""
+          "Value": "\"dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21937,13 +21903,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y=\""
+          "Value": "W/\"2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k4gtnedu47"
+          "Value": "7sj0fo3r3k"
         },
         {
           "Name": "label",
@@ -21951,12 +21917,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y="
+          "Value": "sha256-2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY="
         }
       ]
     },
     {
-      "Route": "Reto.k4gtnedu47.styles.css",
+      "Route": "Reto.7sj0fo3r3k.styles.css",
       "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/scopedcss/bundle/Reto.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21966,7 +21932,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2409"
+          "Value": "2527"
         },
         {
           "Name": "Content-Type",
@@ -21974,11 +21940,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y=\""
+          "Value": "\"2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21988,7 +21954,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k4gtnedu47"
+          "Value": "7sj0fo3r3k"
         },
         {
           "Name": "label",
@@ -21996,13 +21962,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y="
+          "Value": "sha256-2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY="
         }
       ]
     },
     {
-      "Route": "Reto.k4gtnedu47.styles.css.gz",
-      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-k4gtnedu47.gz",
+      "Route": "Reto.7sj0fo3r3k.styles.css.gz",
+      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-7sj0fo3r3k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22011,7 +21977,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "905"
+          "Value": "929"
         },
         {
           "Name": "Content-Type",
@@ -22019,11 +21985,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8=\""
+          "Value": "\"dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22041,7 +22007,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k4gtnedu47"
+          "Value": "7sj0fo3r3k"
         },
         {
           "Name": "label",
@@ -22049,18 +22015,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8="
+          "Value": "sha256-dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c="
         }
       ]
     },
     {
-      "Route": "Reto.styles.css",
-      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-k4gtnedu47.gz",
+      "Route": "Reto.bundle.scp.css",
+      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-7sj0fo3r3k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001103752759"
+          "Quality": "0.001075268817"
         }
       ],
       "ResponseHeaders": [
@@ -22070,15 +22036,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "905"
+          "Value": "929"
         },
         {
           "Name": "ETag",
-          "Value": "\"nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8=\""
+          "Value": "\"dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22098,13 +22064,150 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y=\""
+          "Value": "W/\"2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y="
+          "Value": "sha256-2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY="
+        }
+      ]
+    },
+    {
+      "Route": "Reto.bundle.scp.css",
+      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/scopedcss/projectbundle/Reto.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY="
+        }
+      ]
+    },
+    {
+      "Route": "Reto.bundle.scp.css.gz",
+      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/8jx3y0n9p6-7sj0fo3r3k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c="
+        }
+      ]
+    },
+    {
+      "Route": "Reto.styles.css",
+      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-7sj0fo3r3k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001075268817"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "929"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY="
         }
       ]
     },
@@ -22119,7 +22222,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2409"
+          "Value": "2527"
         },
         {
           "Name": "Content-Type",
@@ -22127,11 +22230,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y=\""
+          "Value": "\"2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22141,13 +22244,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5LVmyYPq/sE4xlwGUDQhH1UXguaJ1QwJT9ZbYrZpv1Y="
+          "Value": "sha256-2dweFf2qbIrQh5DkSmHrRiTB86U+A+Iw+CCxgPmqlUY="
         }
       ]
     },
     {
       "Route": "Reto.styles.css.gz",
-      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-k4gtnedu47.gz",
+      "AssetFile": "/Users/santipa/Desktop/TecThings/WEb/PuntodeVenta/reto-gamificacion/Reto/Reto/obj/Debug/net9.0/compressed/rpcsec8z82-7sj0fo3r3k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22156,7 +22259,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "905"
+          "Value": "929"
         },
         {
           "Name": "Content-Type",
@@ -22164,11 +22267,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8=\""
+          "Value": "\"dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 04:50:51 GMT"
+          "Value": "Tue, 25 Mar 2025 05:15:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22186,7 +22289,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nbL3sOAfGediQWt8/WkKYOnSkDcaU6+GTpzG+F/GUW8="
+          "Value": "sha256-dxh+OLvVHIIZoDsHsWxEXHr46PUEqDFFgbfiVIZUX3c="
         }
       ]
     }

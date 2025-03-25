@@ -10,6 +10,12 @@ a.navbar-brand[b-n955wxx1zj] {
   word-break: break-all;
 }
 
+.nav-item:hover[b-n955wxx1zj] {
+  background-color: #eeeeee;
+  transition: background-color 0.3s ease-in-out;
+
+}
+
 
 a[b-n955wxx1zj] {
   color: #0077cc;
@@ -75,11 +81,11 @@ button.accept-policy[b-n955wxx1zj] {
 }
 
 .sidebar[b-n955wxx1zj] {
-  width: 250px;
+  width: 280px;
   height: 100vh;
   background-color: #ffffff;
   border-right: 1px solid #dee2e6;
-  padding: 1rem;
+  padding-top: 1rem;
   position: fixed;
   top: 0;
   left: 0;
